@@ -1,4 +1,4 @@
-# Battery Protector 🔋
+# Battery Protector
 
 A simple and efficient Android application designed to extend your device's battery lifespan by preventing overcharging.
 
@@ -22,4 +22,4 @@ Lithium-ion batteries degrade faster when kept at 100% charge for long periods. 
 - `POST_NOTIFICATIONS`: To show status and alerts on Android 13+.
 
 ---
-Developed with ❤️ to save your battery.
+Developed with to save your battery.
