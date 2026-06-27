@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Battery Protector</string>
+    <string name="current_battery">Current Battery: %1$d%%</string>
+    <string name="charging_status">Status: %1$s</string>
+    <string name="status_charging">Charging</string>
+    <string name="status_discharging">Discharging</string>
+    <string name="status_full">Full</string>
+    <string name="status_not_charging">Not Charging</string>
+    <string name="status_unknown">Unknown</string>
+    <string name="set_battery_limit">Set Battery Limit</string>
+    <string name="limit_value">%1$d%%</string>
+    <string name="enable_alarm">Enable Alarm</string>
+    <string name="select_alarm_sound">Select Alarm Sound</string>
+    <string name="default_alarm">Default Alarm</string>
+    <string name="silent">Silent</string>
+    <string name="start_protection">Start Protection</string>
+    <string name="stop_protection">Stop Protection</string>
+    <string name="battery_protector_active">Battery Protector Active</string>
+    <string name="monitoring_battery">Monitoring battery level&#8230;</string>
+    <string name="notification_text">Current Battery: %1$d%% | Limit: %2$d%%</string>
+    <string name="permission_denied">Permission denied. Cannot start service.</string>
+    <string name="placeholder_battery">Current Battery: &#8212;%</string>
+    <string name="placeholder_status">Status: &#8212;</string>
+    <string name="placeholder_limit">80%</string>
+    <string name="fgs_justification">Monitoring battery level to protect battery life and trigger alarm when limit is reached.</string>
+</resources>
