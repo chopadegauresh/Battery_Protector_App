@@ -12,13 +12,6 @@ Lithium-ion batteries degrade faster when kept at 100% charge for long periods. 
 - **Background Protection:** Runs as a Foreground Service to ensure you never miss an alert, even if the app is closed.
 - **Quick Access:** Open the app directly from the persistent notification in your status bar.
 
-## Screenshots
-*(Add your screenshots to the `/screenshots` folder and link them here)*
-
-| Home Screen | Alarm Settings |
-| :---: | :---: |
-| ![Main UI](screenshots/main_ui.png) | ![Notification](screenshots/notification.png) |
-
 ## How to Install
 1. Clone this repository.
 2. Open the project in **Android Studio**.
